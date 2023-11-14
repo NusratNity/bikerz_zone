@@ -1,3 +1,8 @@
 .bikerz-zone-light-red {
     background-color: rgb(243, 146, 146);
 }
+
+.small-size {
+
+    width: 150px;
+}
